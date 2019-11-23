@@ -8,7 +8,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagFacts.iOS", "FlagFacts.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlagFacts", "FlagFacts\FlagFacts.csproj", "{587AD52F-E861-4359-93F9-0B5013BFE4A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagData", "FlagData\FlagData.csproj", "{88E65A22-F559-431B-A8EA-301B2F8B339D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlagData", "FlagData\FlagData.csproj", "{88E65A22-F559-431B-A8EA-301B2F8B339D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{86A49290-285F-4549-9F04-270855B400F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

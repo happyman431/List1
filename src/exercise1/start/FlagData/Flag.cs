@@ -21,8 +21,13 @@ namespace FlagData
         /// <summary>
         /// Name of the country that this flag belongs to
         /// </summary>
+        public override string ToString()
+        {
+            return Country;
+        }
         public string Country
         {
+
             get { return _country; }
             set { ChangePropertyValue(ref _country, value); }
         }
